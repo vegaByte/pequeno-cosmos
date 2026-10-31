@@ -53,5 +53,11 @@ página, detener el servidor, recargar y jugar. Volver a iniciar el servidor des
 
 ## Publicación
 
-Preparado para GitHub Pages desde `/docs`. No se ha creado un repositorio remoto
-ni publicado el sitio: queda pendiente la autorización para hacerlo público.
+Repositorio público autorizado: <https://github.com/vegaByte/pequeno-cosmos>.
+GitHub Pages configurado desde `main:/docs`, con HTTPS, en
+<https://vegabyte.github.io/pequeno-cosmos/>.
+
+Comprobación en la URL pública: clic real en Jugar, AudioContext `running`,
+24 partículas y una voz tras tocar el fondo; service worker bajo
+`https://vegabyte.github.io/pequeno-cosmos/` y contexto seguro. La publicación
+inicial de GitHub Pages terminó con estado `built`, sin errores.
